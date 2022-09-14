@@ -17,7 +17,7 @@ export function Home() {
       <Heading title='Encontre seu duo' subtitle='Selecione o game que deseja jogar...'/>
 
       <FlatList
-        style={styles.list}
+        contentContainerStyle={styles.list}
         data={GAMES}
         keyExtractor={item=> item.id}
         renderItem={({item}) => 
