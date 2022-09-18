@@ -29,8 +29,7 @@ export function Game() {
   async function getUserDiscord(adsId: string ) {
     fetch(`http://10.0.0.251:3000/ads/${adsId}/discord`)
     .then( response => response.json() )
-    .then( data => console.log(data)
-     )
+    .then( data => setDuoAdSelected(data.discord) )
   }
 
   useEffect(()=> {
@@ -93,7 +92,7 @@ export function Game() {
 
         <DuoMatch
           visible={duoAdSelected.length > 0}
-          discord="andrewsItiel#2341"
+          discord={duoAdSelected}
           onClose={() => setDuoAdSelected("")}
         />
 
