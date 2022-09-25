@@ -3,20 +3,29 @@ Mobile app of NLW ESports project, developed with Expo.
 
 ## Libraries
 - Expo:
+  - [Modules Core](https://www.npmjs.com/package/expo-modules-core)
   - [Font](https://docs.expo.dev/versions/latest/sdk/font/)
   - [Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
   - [Status Bar](https://docs.expo.dev/versions/latest/sdk/status-bar/)
   - [Notifications](https://docs.expo.dev/versions/latest/sdk/notifications/)
-  - [Modules Core](https://docs.expo.dev/versions/latest/sdk/modules-core)
-- [Simplebar](https://www.npmjs.com/package/simplebar-react)
+
+- React Native
+  - [React Navigation/native](https://reactnavigation.org/docs/getting-started/)
+  - [React-navigation/native-stack](https://reactnavigation.org/docs/native-stack-navigator/)
+  - [React Native Screens](https://reactnavigation.org/docs/community-libraries-and-navigators/#react-native-screens)
+  - [React Native Web](https://www.npmjs.com/package/react-native-web)
+  - [React Native Svg](https://docs.expo.dev/versions/latest/sdk/svg/)
+  - [Safe Area Context](https://www.npmjs.com/package/react-native-safe-area-context)
 
 ## Techs
 
-[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=native)](https://skillicons.dev)
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/86017907/192147222-b630dbaa-fa73-43e3-9c02-13033ed11928.png)
-![image](https://user-images.githubusercontent.com/86017907/192147629-122acbda-b53d-4118-b737-6192dbd1d7ec.png)
+## Using
 
-[![image](https://user-images.githubusercontent.com/86017907/179060688-590eac0e-1195-4bad-80d3-8c848b0af5e2.png)](/LIC
+Run ```npm install``` for install dependencies, and ```npx expo start``` to initialize the application.
+
+
+[![image](https://user-images.githubusercontent.com/86017907/179060688-590eac0e-1195-4bad-80d3-8c848b0af5e2.png)](/LICENSE)
