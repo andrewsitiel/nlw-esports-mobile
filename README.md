@@ -19,7 +19,8 @@ Mobile app of NLW ESports project, developed with Expo.
 
 ## Techs
 
-[![My Skills](https://skillicons.dev/icons?i=native)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)   <img src="https://user-images.githubusercontent.com/86017907/192158949-852f6151-f54c-499b-98d0-01419f14c9a8.png" width="40px"/>
+
 
 ## Preview
 
